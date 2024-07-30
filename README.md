@@ -7,8 +7,11 @@ The goal of this project is to identify and analyze patterns in transaction data
 
 **Key Features**
 Data Cleaning and Transformation: Handled missing values, formatted data, and created calculated columns to ensure data quality and consistency.
+
 Interactive Visualizations: Includes various charts, graphs, and tables to visualize transaction patterns and anomalies.
+
 Custom Metrics: Developed custom metrics such as Total Customers, Customer Buckets, and Merchant Buckets to categorize and summarize the data effectively.
+
 Fraud Detection Insights: Highlights key metrics and trends related to fraudulent transactions, providing actionable insights.
 
 **Datasets**
