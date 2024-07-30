@@ -13,12 +13,17 @@ Fraud Detection Insights: Highlights key metrics and trends related to fraudulen
 
 **Datasets**
 The dataset used in this project includes transaction records with fields such as transaction IDs, account types, dates of transactions, and more. Key transformations and cleaning steps include:
+
 Replacing null and blank values with "Non Specified".
+
 Categorizing transactions into "Customer" and "Merchant" buckets based on the transaction origin.
 
 **Visualizations**
 The dashboard includes the following visualizations:
 Summary Page: High-level KPIs and metrics.
+
 Transaction Patterns: Detailed charts showing transaction patterns over time.
+
 Fraud Detection: Insights into potential fraudulent transactions.
+
 Customer and Merchant Analysis: Breakdown of transactions by customers and merchants.
