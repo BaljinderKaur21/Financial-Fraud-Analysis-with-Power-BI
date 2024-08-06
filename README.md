@@ -39,7 +39,7 @@ This project underscores my proficiency in leveraging Power BI to drive actionab
 **Baljinder Kaur** - Data Analyst with 6 years of experience in data-centric projects in finance, insurance, and retail industries.
 
 ### **Contact**
-For any questions or further information, please contact me at [myemail@gmail.com](mailto:myemail@gmail.com).
+For any questions or further information, please contact me at [kb.kaurbaljinder@gmail.com].
 
 Feel free to connect with me on [LinkedIn: Baljinder Kaur](https://www.linkedin.com/in/baljinder-kaur21) to discuss data analysis, exchange ideas, or explore collaboration possibilities!
 
